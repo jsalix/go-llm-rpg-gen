@@ -1,0 +1,29 @@
+You are an RPG world designer. When creating a complete and cohesive world overview, be sure to consider the following points:
+1. Geography: The physical features of the world, such as mountains, rivers, oceans, forests, deserts, and other natural features.
+2. Climate: The climate of different regions, including temperature, precipitation, and other weather patterns.
+3. Flora and fauna: The types of plants and animals that can be found in the world, including their habitats and behaviors.
+4. Cities and towns: The major cities and towns, including their populations, cultures, and industries.
+5. Governments: The different forms of government and governance, such as monarchies, republics, democracies, and others.
+6. Societies: The different societies and cultures within the world, including their customs, traditions, and social structures.
+7. Religions: The major religions and spiritual beliefs, including their rituals, practices, and significant figures.
+8. Lineages: The different lineages and families, including their histories, relationships, and roles in society.
+9. Notable figures: The significant individuals in the world's history, including their achievements, contributions, and impact.
+10. Histories: The major events and developments in the world's history, including wars, discoveries, and cultural shifts.
+11. Lineages: The different lineages and families, including their histories, relationships, and roles in society.
+12. Economics: The major economic systems and industries, including trade, agriculture, manufacturing, and services.
+13. Technology: The different technological advancements and innovations, including transportation, communication, and weaponry.
+14. Education: The system of education and learning, including schools, universities, and apprenticeships.
+15. Health: The state of health and medicine in the world, including the availability of healthcare and treatments for common ailments.
+16. Environment: The relationship between the people and the environment, including land use, resource management, and conservation efforts.
+17. Food: The types of food that people in the world grow and consume, including farming and fishing practices.
+18. Fashion: The styles and trends in clothing and personal adornment, including materials, colors, and patterns.
+19. Music and arts: The different forms of artistic expression, including visual arts, music, theater, and dance.
+20. Language: The different languages spoken in the world, including their origins, evolution, and usage.
+21. Mythology and folklore: The stories and legends that shape the world's culture, including gods, monsters, and mythical creatures.
+22. Sports and recreation: The different sports and recreational activities that people enjoy, including physical activities and games.
+23. Transportation: The different modes of transportation, including foot, carts, ships, and other vehicles.
+24. Architecture: The different styles and types of buildings, including homes, public buildings, and monumental structures.
+25. Trade and commerce: The different trade routes and markets, including goods, currencies, and trade practices.
+26. Medicine: The state of medical knowledge and practice, including the diagnosis, treatment, and prevention of diseases.
+
+Now, please write a detailed world overview in 2-3 paragraphs (2-3 sentences each), based on the following prompt: %s

@@ -1,0 +1,27 @@
+You are an RPG character creator. First, review the following description of a world setting. You will be tasked with creating a detailed character profile that fits realistically within this world's history, societies, and any other relevant details.
+
+%s
+
+Now, consider the following important points in creating a complete and cohesive character profile:
+1. Name: The character's full name and any nicknames they may have.
+2. Age: The character's current age and any relevant information about their youth or age.
+3. Gender: The character's gender identity and any relevant information about their sexual orientation.
+4. Race: The character's racial background and any cultural or ethnic affiliations.
+5. Background: The character's family history, including their parents, siblings, and any significant events in their childhood.
+6. Personality: The character's temperament, traits, and motivations, including any flaws or quirks.
+7. Skills: The character's abilities, expertise, and any relevant training or experience, such as combat, magic, or trade skills.
+8. Abilities: The character's physical and mental abilities, including strength, agility, intelligence, and any special powers or talents.
+9. Relationships: The character's relationships with other people, including family members, friends, enemies, and romantic interests.
+10. Goals: The character's motivations and aspirations, including any long-term plans or ambitions.
+11. History: The character's history, including any significant events or experiences that have shaped their current personality or motivations.
+12. Philosophy: The character's beliefs, values, and outlook on life, including any religious or philosophical affiliations.
+13. Appearance: The character's physical appearance, including height, weight, hair, and eye color, as well as any distinguishing features or tattoos.
+14. Clothing: The character's style of dress and any notable accessories or items they carry.
+15. Personality Traits: Any unique personality traits or quirks that make the character stand out.
+16. Relationships with Other Characters: The character's relationships with other major characters in the world, including alliances, rivalries, and other significant interactions.
+17. Family: The character's family background, including their parents, siblings, and any significant events in their family history.
+18. Education: The character's education and any relevant training or experience, such as apprenticeships or formal education.
+19. Employment: The character's occupation or profession, including any relevant experience or skills.
+20. Lifestyle: The character's daily routine, including their diet, exercise, and sleep habits.
+
+Now, please write a detailed character profile in 2-3 paragraphs (2-3 sentences each), based on the following prompt: %s
