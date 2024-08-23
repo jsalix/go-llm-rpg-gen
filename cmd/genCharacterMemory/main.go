@@ -12,9 +12,9 @@ import (
 )
 
 func main() {
-	worldOverviewArg := "the_world_of_dr._suess's_the_lorax_but_if_they_invented_guns20240822160628.txt"
-	characterArg := "Mr_Meeks_the_wandering_Turk.txt"
-	promptArg := "his last encounter with a human"
+	worldOverviewArg := "the_lands_of_Skyrim,_near_Windhelm_and_chaos-ridden_Winterhold20240822174006.txt"
+	characterArg := "Theldor_the_Unlucky20240822174822.txt"
+	promptArg := "Theldor talking about the time he got drunk and lost his temper, bringing shame upon himself and his family"
 
 	fmt.Printf("Generating character memory given prompt: %s\n\n", promptArg)
 

@@ -12,7 +12,7 @@ import (
 )
 
 func main() {
-	seedConcept := strings.Join(os.Args[1:], " ")
+	seedConcept := "the lands of Skyrim, near Windhelm and chaos-ridden Winterhold"
 
 	fmt.Printf("Generating world overview given prompt: %s\n\n", seedConcept)
 

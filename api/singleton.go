@@ -16,7 +16,7 @@ func Generate(prompt string) (string, error) {
 
 	params := &KoboldParams{
 		MaxContextLength: 16384,
-		MaxLength:        512,
+		MaxLength:        1024,
 		Temperature:      1.0,
 		DynaTempRange:    0,
 		TopP:             1,

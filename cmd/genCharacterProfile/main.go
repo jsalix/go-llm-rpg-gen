@@ -12,8 +12,8 @@ import (
 )
 
 func main() {
-	worldOverviewArg := "the_world_of_dr._suess's_the_lorax_but_if_they_invented_guns20240822160628.txt"
-	promptArg := "Mr Meeks the wandering Turk"
+	worldOverviewArg := "the_lands_of_Skyrim,_near_Windhelm_and_chaos-ridden_Winterhold20240822174006.txt"
+	promptArg := "Theldor the Unlucky"
 
 	fmt.Printf("Generating character profile given prompt: %s\n\n", promptArg)
 
